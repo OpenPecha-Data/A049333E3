@@ -1,0 +1,16 @@
+segment_sources:
+  P540B9405:
+    type: origin_type
+    relation: translation
+    language: en
+  PC587C685:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  1dd6d71bdf1a48e7bd9d6f2d7269e335:
+    P540B9405: 5340a3ee627d4253851b921a47191cee
+    PC587C685: 15b7b5fa346b42e2a556604baf9bda09
+  14a8fec126364c3585090bd8cd920c19:
+    P540B9405: 12bfcaf4a405420ba95da664a3dd4134
+    PC587C685: 019efc5f5684429ea6afabc814c1c4a7
